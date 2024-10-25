@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz Animest</title>
+</head>
+
+<body>
+    <h1>Pergunta {{question_num + 1}}</h1>
+    <p>{{question['question'] }}</p>
+
+
+    <form method="POST">
+        {% for option in question['options'] %}
+        <input type="radio" name="answer" value="{{ option }}" required> {{option}}<br>
+        {% endfor %}
+        <button type="submit">Enviar Resposta</button>
+    </form>
+
+
+    <p>Pontuação atual: {{score}}</p>
+
+</body>
+
+</html>

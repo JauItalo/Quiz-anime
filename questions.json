@@ -1,0 +1,26 @@
+{
+    "questions": [
+        {
+            "question": "Qual eh o nome do protagonista de 'Naruto'?",
+            "options": [
+                "Naruto Uzumaki",
+                "Sasuke Uchira",
+                "Sakura Haruno",
+                "Boruto Uzumaki"
+            ],
+            "answer": "Naruto Uzumaki",
+            "dificulty": "easy"
+        },
+        {
+            "question": "Quem eh o alquimista de aço?",
+            "options": [
+                "Alphonese Elric",
+                "Roy Mustang",
+                "Edward Elric",
+                "Winry Rockbell"
+            ],
+            "answer": "Edward Elric",
+            "dificulty": "easy"
+        }
+    ]
+}
