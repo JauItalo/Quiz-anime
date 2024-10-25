@@ -5,7 +5,7 @@ import json
 app = Flask(__name__)
 
 def load_questions():
-    with open('questions.json', 'r') as file:
+    with open('questions.json', encoding='utf-8') as file:
         return json.load(file)['questions']
     
 
@@ -30,6 +30,8 @@ def quiz(question_num, score):
 
         if question_num >= len(questions):
             return redirect(url_for('result', score=score))
+        
+        return redirect(url_for('quiz', question_num=question_num, score=score))
     
     question = questions[question_num]
     return render_template('quiz.html', question=question, question_num=question_num, score=score)

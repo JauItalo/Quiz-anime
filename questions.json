@@ -1,26 +1,655 @@
 {
     "questions": [
         {
-            "question": "Qual eh o nome do protagonista de 'Naruto'?",
+            "question": "Qual é o nome do protagonista de 'Naruto'?",
             "options": [
                 "Naruto Uzumaki",
-                "Sasuke Uchira",
+                "Sasuke Uchiha",
                 "Sakura Haruno",
                 "Boruto Uzumaki"
             ],
             "answer": "Naruto Uzumaki",
-            "dificulty": "easy"
+            "difficulty": "easy"
         },
         {
-            "question": "Quem eh o alquimista de aço?",
+            "question": "Quem é o alquimista de aço?",
             "options": [
-                "Alphonese Elric",
+                "Alphonse Elric",
                 "Roy Mustang",
                 "Edward Elric",
                 "Winry Rockbell"
             ],
             "answer": "Edward Elric",
-            "dificulty": "easy"
+            "difficulty": "easy"
+        },
+        {
+            "question": "Qual o nome completo do personagem principal em 'Death Note'?",
+            "options": [
+                "Light Yagami",
+                "L Lawliet",
+                "Ryuk Shinigami",
+                "Misa Amane"
+            ],
+            "answer": "Light Yagami",
+            "difficulty": "easy"
+        },
+        {
+            "question": "Qual é o objetivo de Luffy em 'One Piece'?",
+            "options": [
+                "Tornar-se Rei dos Piratas",
+                "Ser o espadachim mais forte",
+                "Encontrar o Elixir da Imortalidade",
+                "Proteger o seu vilarejo"
+            ],
+            "answer": "Tornar-se Rei dos Piratas",
+            "difficulty": "easy"
+        },
+        {
+            "question": "Quem é o primeiro membro a se juntar ao Luffy em 'One Piece'?",
+            "options": [
+                "Nami",
+                "Zoro",
+                "Usopp",
+                "Sanji"
+            ],
+            "answer": "Zoro",
+            "difficulty": "medium"
+        },
+        {
+            "question": "Qual o nome da vila de onde Naruto veio?",
+            "options": [
+                "Konoha",
+                "Sunagakure",
+                "Kirigakure",
+                "Iwagakure"
+            ],
+            "answer": "Konoha",
+            "difficulty": "easy"
+        },
+        {
+            "question": "Em 'Dragon Ball Z', qual é a transformação de Goku que o deixa com cabelo loiro?",
+            "options": [
+                "Super Saiyajin",
+                "Ultra Instinto",
+                "Kaioken",
+                "Super Saiyajin Blue"
+            ],
+            "answer": "Super Saiyajin",
+            "difficulty": "easy"
+        },
+        {
+            "question": "Qual é o nome do robô gigante em 'Neon Genesis Evangelion'?",
+            "options": [
+                "EVA",
+                "Mecha",
+                "Zaku",
+                "Gundam"
+            ],
+            "answer": "EVA",
+            "difficulty": "medium"
+        },
+        {
+            "question": "Quem é o antagonista final de 'Fullmetal Alchemist: Brotherhood'?",
+            "options": [
+                "Father",
+                "Envy",
+                "Greed",
+                "Pride"
+            ],
+            "answer": "Father",
+            "difficulty": "hard"
+        },
+        {
+            "question": "Em 'Attack on Titan', qual é a habilidade especial do Titã Colossal?",
+            "options": [
+                "Desaparecer",
+                "Explodir ao transformar",
+                "Voar",
+                "Curar rapidamente"
+            ],
+            "answer": "Explodir ao transformar",
+            "difficulty": "hard"
+        },
+        {
+            "question": "Qual é o poder do Nen de Kurapika em 'Hunter x Hunter'?",
+            "options": [
+                "Manipulação de corrente",
+                "Controle de água",
+                "Força sobre-humana",
+                "Controle de sombras"
+            ],
+            "answer": "Manipulação de corrente",
+            "difficulty": "medium"
+        },
+        {
+            "question": "Em 'My Hero Academia', quem é o herói nº 1 antes de Endeavor?",
+            "options": [
+                "All Might",
+                "Deku",
+                "Bakugo",
+                "Todoroki"
+            ],
+            "answer": "All Might",
+            "difficulty": "easy"
+        },
+        {
+            "question": "Quem é o fundador do clã Uchiha em 'Naruto'?",
+            "options": [
+                "Indra Otsutsuki",
+                "Madara Uchiha",
+                "Hashirama Senju",
+                "Itachi Uchiha"
+            ],
+            "answer": "Madara Uchiha",
+            "difficulty": "hard"
+        },
+        {
+            "question": "Em 'One Punch Man', qual é a fonte de poder de Saitama?",
+            "options": [
+                "Treino intenso",
+                "Experimento científico",
+                "Habilidades sobrenaturais",
+                "Treinamento com heróis"
+            ],
+            "answer": "Treino intenso",
+            "difficulty": "easy"
+        },
+        {
+            "question": "Em 'Bleach', qual é a forma final de Ichigo Kurosaki?",
+            "options": [
+                "Bankai",
+                "Shikai",
+                "Hollowfication",
+                "Resurrección"
+            ],
+            "answer": "Bankai",
+            "difficulty": "medium"
+        },
+        {
+            "question": "Qual é o nome do cavaleiro de bronze de Pégaso em 'Cavaleiros do Zodíaco'?",
+            "options": [
+                "Seiya",
+                "Shiryu",
+                "Hyoga",
+                "Shun"
+            ],
+            "answer": "Seiya",
+            "difficulty": "easy"
+        },
+        {
+            "question": "Quem é o verdadeiro vilão de 'Code Geass'?",
+            "options": [
+                "Charles zi Britannia",
+                "Schneizel el Britannia",
+                "Lelouch vi Britannia",
+                "Nunnally vi Britannia"
+            ],
+            "answer": "Charles zi Britannia",
+            "difficulty": "hard"
+        },
+        {
+            "question": "Em 'Death Note', qual é o nome do shinigami de Light Yagami?",
+            "options": [
+                "Ryuk",
+                "Rem",
+                "Sidoh",
+                "Gelus"
+            ],
+            "answer": "Ryuk",
+            "difficulty": "easy"
+        },
+        {
+            "question": "Qual é a habilidade de Kira Yoshikage em 'JoJo's Bizarre Adventure'?",
+            "options": [
+                "Manipulação do tempo",
+                "Explosão de objetos",
+                "Força sobre-humana",
+                "Controle de vento"
+            ],
+            "answer": "Explosão de objetos",
+            "difficulty": "hard"
+        },
+
+        {
+            "question": "Em 'Tokyo Ghoul', qual é a habilidade do personagem Kaneki após se transformar em ghoul?",
+            "options": [
+                "Regeneração acelerada",
+                "Controle de água",
+                "Teletransporte",
+                "Criar ilusões"
+            ],
+            "answer": "Regeneração acelerada",
+            "difficulty": "medium"
+        },
+        {
+            "question": "Qual é a habilidade principal de Meliodas em 'Nanatsu no Taizai'?",
+            "options": [
+                "Contra-Ataque Total",
+                "Manipulação de fogo",
+                "Telepatia",
+                "Controle de sombras"
+            ],
+            "answer": "Contra-Ataque Total",
+            "difficulty": "medium"
+        },
+        {
+            "question": "Qual é o nome do principal rival de Ash em 'Pokémon' na Liga de Kanto?",
+            "options": [
+                "Gary Oak",
+                "Brock",
+                "Misty",
+                "James"
+            ],
+            "answer": "Gary Oak",
+            "difficulty": "easy"
+        },
+        {
+            "question": "Quem é o criador do mangá 'One Piece'?",
+            "options": [
+                "Eiichiro Oda",
+                "Masashi Kishimoto",
+                "Akira Toriyama",
+                "Tite Kubo"
+            ],
+            "answer": "Eiichiro Oda",
+            "difficulty": "easy"
+        },
+        {
+            "question": "Em 'Hunter x Hunter', qual é a condição imposta no contrato de Kurapika para usar sua habilidade de Nen?",
+            "options": [
+                "Usá-la apenas contra membros da Tropa Fantasma",
+                "Usá-la apenas à noite",
+                "Somente quando estiver em perigo",
+                "Apenas quando estiver sozinho"
+            ],
+            "answer": "Usá-la apenas contra membros da Tropa Fantasma",
+            "difficulty": "hard"
+        },
+        {
+            "question": "Em 'Attack on Titan', qual Titã tem a habilidade de endurecimento?",
+            "options": [
+                "Titã Encouraçado",
+                "Titã Bestial",
+                "Titã Colossal",
+                "Titã Martelo de Guerra"
+            ],
+            "answer": "Titã Encouraçado",
+            "difficulty": "medium"
+        },
+        {
+            "question": "Qual é a principal motivação de Lelouch em 'Code Geass'?",
+            "options": [
+                "Vingança pela morte de sua mãe",
+                "Dominar o mundo",
+                "Obter riquezas",
+                "Ser o melhor cavaleiro"
+            ],
+            "answer": "Vingança pela morte de sua mãe",
+            "difficulty": "medium"
+        },
+        {
+            "question": "Em 'Naruto', qual é a habilidade especial de Itachi Uchiha?",
+            "options": [
+                "Amaterasu",
+                "Chidori",
+                "Raikiri",
+                "Rasengan"
+            ],
+            "answer": "Amaterasu",
+            "difficulty": "hard"
+        },
+        {
+            "question": "Em 'Dragon Ball Z', quem foi o primeiro vilão derrotado por Goku?",
+            "options": [
+                "Pilaf",
+                "Raditz",
+                "Freeza",
+                "Majin Boo"
+            ],
+            "answer": "Raditz",
+            "difficulty": "medium"
+        },
+        {
+            "question": "Em 'Bleach', qual é o nome do poder que Ichigo desperta para derrotar seus inimigos?",
+            "options": [
+                "Bankai",
+                "Shikai",
+                "Getsuga Tenshou",
+                "Cero"
+            ],
+            "answer": "Getsuga Tenshou",
+            "difficulty": "medium"
+        },
+        {
+            "question": "Qual é a identidade secreta de Zero em 'Code Geass'?",
+            "options": [
+                "Lelouch vi Britannia",
+                "Suzaku Kururugi",
+                "Schneizel el Britannia",
+                "Cornelia li Britannia"
+            ],
+            "answer": "Lelouch vi Britannia",
+            "difficulty": "easy"
+        },
+        {
+            "question": "Em 'Fairy Tail', qual é o nome do dragão que treinou Natsu?",
+            "options": [
+                "Igneel",
+                "Acnologia",
+                "Metalicana",
+                "Grandine"
+            ],
+            "answer": "Igneel",
+            "difficulty": "medium"
+        },
+        {
+            "question": "Qual é o número de zodíaco de Loke em 'Fairy Tail'?",
+            "options": [
+                "Leão",
+                "Capricórnio",
+                "Áries",
+                "Sagitário"
+            ],
+            "answer": "Leão",
+            "difficulty": "medium"
+        },
+        {
+            "question": "Qual é o verdadeiro nome do L em 'Death Note'?",
+            "options": [
+                "L Lawliet",
+                "Light Yagami",
+                "Kira",
+                "Near"
+            ],
+            "answer": "L Lawliet",
+            "difficulty": "hard"
+        },
+        {
+            "question": "Em 'JoJo's Bizarre Adventure', qual é o Stand de Jotaro Kujo?",
+            "options": [
+                "Star Platinum",
+                "The World",
+                "Magician's Red",
+                "Hermit Purple"
+            ],
+            "answer": "Star Platinum",
+            "difficulty": "medium"
+        },
+        {
+            "question": "Em 'Naruto', quem foi o primeiro hokage da Vila da Folha?",
+            "options": [
+                "Hashirama Senju",
+                "Tobirama Senju",
+                "Hiruzen Sarutobi",
+                "Minato Namikaze"
+            ],
+            "answer": "Hashirama Senju",
+            "difficulty": "easy"
+        },
+        {
+            "question": "Qual é o poder que Killua Zoldyck domina em 'Hunter x Hunter'?",
+            "options": [
+                "Eletricidade",
+                "Fogo",
+                "Vento",
+                "Água"
+            ],
+            "answer": "Eletricidade",
+            "difficulty": "medium"
+        },
+        {
+            "question": "Quem derrotou Cell em 'Dragon Ball Z'?",
+            "options": [
+                "Gohan",
+                "Goku",
+                "Vegeta",
+                "Trunks"
+            ],
+            "answer": "Gohan",
+            "difficulty": "medium"
+        },
+        {
+            "question": "Em 'One Piece', qual é a fruta do diabo que Luffy comeu?",
+            "options": [
+                "Gomu Gomu no Mi",
+                "Mera Mera no Mi",
+                "Hana Hana no Mi",
+                "Suna Suna no Mi"
+            ],
+            "answer": "Gomu Gomu no Mi",
+            "difficulty": "easy"
+        },
+        {
+            "question": "Qual é o desejo de Alphonse Elric em 'Fullmetal Alchemist'?",
+            "options": [
+                "Recuperar seu corpo",
+                "Ser o alquimista mais poderoso",
+                "Destruir a pedra filosofal",
+                "Imortalidade"
+            ],
+            "answer": "Recuperar seu corpo",
+            "difficulty": "easy"
+        },
+
+        {
+            "question": "Em 'Naruto Shippuden', qual é a técnica secreta de Gaara?",
+            "options": [
+                "Areia Fúnebre",
+                "Rasengan",
+                "Chidori",
+                "Sharingan"
+            ],
+            "answer": "Areia Fúnebre",
+            "difficulty": "medium"
+        },
+        {
+            "question": "Qual é a fraqueza de All Might em 'My Hero Academia'?",
+            "options": [
+                "Sua forma enfraquecida",
+                "Sensibilidade ao fogo",
+                "Falta de controle de poder",
+                "Perda de memória"
+            ],
+            "answer": "Sua forma enfraquecida",
+            "difficulty": "medium"
+        },
+        {
+            "question": "Quem é o verdadeiro líder da Akatsuki em 'Naruto'?",
+            "options": [
+                "Nagato",
+                "Itachi",
+                "Madara",
+                "Obito"
+            ],
+            "answer": "Nagato",
+            "difficulty": "hard"
+        },
+        {
+            "question": "Qual é a habilidade de Nezuko em 'Demon Slayer'?",
+            "options": [
+                "Regeneração rápida",
+                "Teletransporte",
+                "Intangibilidade",
+                "Controle de fogo"
+            ],
+            "answer": "Regeneração rápida",
+            "difficulty": "easy"
+        },
+        {
+            "question": "Em 'One Punch Man', quem é o herói da Classe S que é considerado o mais forte?",
+            "options": [
+                "Blast",
+                "Tatsumaki",
+                "Bang",
+                "King"
+            ],
+            "answer": "Blast",
+            "difficulty": "hard"
+        },
+        {
+            "question": "Qual é o nome do pai de Gon em 'Hunter x Hunter'?",
+            "options": [
+                "Ging Freecss",
+                "Leorio",
+                "Kite",
+                "Knuckle"
+            ],
+            "answer": "Ging Freecss",
+            "difficulty": "medium"
+        },
+        {
+            "question": "Em 'Attack on Titan', qual é a habilidade especial de Eren após herdar o Titã de Ataque?",
+            "options": [
+                "Visão do futuro",
+                "Super velocidade",
+                "Explosão de calor",
+                "Habilidade de voar"
+            ],
+            "answer": "Visão do futuro",
+            "difficulty": "hard"
+        },
+        {
+            "question": "Qual é o objetivo de Light Yagami em 'Death Note'?",
+            "options": [
+                "Criar um novo mundo como deus",
+                "Destruir a polícia",
+                "Matar L",
+                "Se tornar um Shinigami"
+            ],
+            "answer": "Criar um novo mundo como deus",
+            "difficulty": "easy"
+        },
+        {
+            "question": "Em 'Bleach', qual é o poder de Byakuya Kuchiki?",
+            "options": [
+                "Manipulação de pétalas de sakura",
+                "Manipulação de gelo",
+                "Controle do tempo",
+                "Criação de ilusões"
+            ],
+            "answer": "Manipulação de pétalas de sakura",
+            "difficulty": "medium"
+        },
+        {
+            "question": "Qual é o nome da habilidade de Nen de Hisoka em 'Hunter x Hunter'?",
+            "options": [
+                "Bungee Gum",
+                "Texture Surprise",
+                "Crazy Slots",
+                "Silent Waltz"
+            ],
+            "answer": "Bungee Gum",
+            "difficulty": "hard"
+        },
+        {
+            "question": "Em 'Sword Art Online', qual é o nome do jogo que Kirito e Asuna jogam primeiro?",
+            "options": [
+                "Aincrad",
+                "ALfheim Online",
+                "Gun Gale Online",
+                "Underworld"
+            ],
+            "answer": "Aincrad",
+            "difficulty": "easy"
+        },
+        {
+            "question": "Em 'Dragon Ball', qual é a arma secreta de Mestre Kame?",
+            "options": [
+                "Kamehameha",
+                "Genki Dama",
+                "Kaio-Ken",
+                "Final Flash"
+            ],
+            "answer": "Kamehameha",
+            "difficulty": "easy"
+        },
+        {
+            "question": "Qual é o objetivo de Ainz Ooal Gown em 'Overlord'?",
+            "options": [
+                "Dominar o novo mundo",
+                "Destruir os humanos",
+                "Encontrar outros jogadores",
+                "Criar uma guilda forte"
+            ],
+            "answer": "Dominar o novo mundo",
+            "difficulty": "medium"
+        },
+        {
+            "question": "Qual é o desejo de Edward e Alphonse em 'Fullmetal Alchemist'?",
+            "options": [
+                "Recuperar seus corpos",
+                "Destruir a pedra filosofal",
+                "Encontrar a cidade de Xerxes",
+                "Derrotar todos os homúnculos"
+            ],
+            "answer": "Recuperar seus corpos",
+            "difficulty": "easy"
+        },
+        {
+            "question": "Qual é a verdadeira identidade de Reiner Braun em 'Attack on Titan'?",
+            "options": [
+                "Titã Encouraçado",
+                "Titã Fêmea",
+                "Titã Bestial",
+                "Titã Colossal"
+            ],
+            "answer": "Titã Encouraçado",
+            "difficulty": "medium"
+        },
+        {
+            "question": "Em 'Black Clover', qual é o objetivo de Asta?",
+            "options": [
+                "Se tornar o Rei Mago",
+                "Vingar sua família",
+                "Se tornar um herói",
+                "Proteger o reino"
+            ],
+            "answer": "Se tornar o Rei Mago",
+            "difficulty": "easy"
+        },
+        {
+            "question": "Qual é a fraqueza de Shoto Todoroki em 'My Hero Academia'?",
+            "options": [
+                "Ele não consegue controlar suas emoções",
+                "Falta de resistência física",
+                "Não consegue usar os dois poderes ao mesmo tempo",
+                "Dificuldade de concentração"
+            ],
+            "answer": "Ele não consegue controlar suas emoções",
+            "difficulty": "medium"
+        },
+        {
+            "question": "Em 'Re:Zero', qual é a habilidade de Subaru Natsuki?",
+            "options": [
+                "Retorno pela morte",
+                "Teletransporte",
+                "Manipulação de tempo",
+                "Imortalidade"
+            ],
+            "answer": "Retorno pela morte",
+            "difficulty": "medium"
+        },
+        {
+            "question": "Quem derrotou Dio em 'JoJo's Bizarre Adventure'?",
+            "options": [
+                "Jotaro Kujo",
+                "Joseph Joestar",
+                "Jonathan Joestar",
+                "Giorno Giovanna"
+            ],
+            "answer": "Jotaro Kujo",
+            "difficulty": "medium"
+        },
+        {
+            "question": "Em 'Yu Yu Hakusho', qual é a principal habilidade de Yusuke Urameshi?",
+            "options": [
+                "Rei-Gun",
+                "Telepatia",
+                "Controle de chamas",
+                "Manipulação de energia"
+            ],
+            "answer": "Rei-Gun",
+            "difficulty": "easy"
         }
     ]
 }
